@@ -1,2 +1,2 @@
 # JobSpaces
-Job offers Spaces for Recruiters and Candidates
+Decentralized Job Offers Spaces for Recruiters and Candidates
